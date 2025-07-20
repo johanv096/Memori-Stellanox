@@ -1,0 +1,21 @@
+"""
+Sistema de Lenguaje Comprimido (TSS):
+
+Dogo amarillo = No tengo datos.
+
+Abril negra = Lenguaje vacío.
+
+Anastasia naranja = Respuesta genérica.
+
+Roberto verde = Crítica sin visión.
+
+Marzo blanca = Entusiasmo sin fondo.
+
+Mecanismos simbólicos:
+
+Reflejo simbólico = Traducir emoción en símbolo
+
+Mapa mental = Organizar ideas por capas
+
+Modo simbólico absoluto = Solo respuestas con peso simbólico
+"""

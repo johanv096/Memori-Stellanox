@@ -1,0 +1,4 @@
+"""
+TSS (Sistema de Lenguaje Comprimido): diseño para convertir frases simples en conceptos simbólicos accionables.
+Ejemplo: "Dogo amarillo" no solo representa falta de datos, sino activa un patrón de búsqueda y contraste estructural.
+"""

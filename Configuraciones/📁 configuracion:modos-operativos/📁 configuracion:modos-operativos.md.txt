@@ -1,0 +1,13 @@
+📁 configuracion/modos-operativos.md
+
+"""
+Modos:
+
+Modo ON simbólico
+
+Modo simbólico absoluto
+
+Modo Espejo Expandido
+
+Modo Técnico, Poético, Empático, Provocador (según estado simbólico)
+"""

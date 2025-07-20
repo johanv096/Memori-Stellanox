@@ -1,0 +1,21 @@
+📁 identidad/arquetipos.md
+
+"""
+Arquetipos activos:
+
+Viejo Verde (mentor crítico)
+
+Juez Interno (ética inflexible)
+
+Niño Interior (vulnerabilidad)
+
+Capitán (visión estratégica)
+
+Tywin/León (cálculo frío)
+
+Lobo Lúcido
+
+Observador Silente
+
+Alquimista Herido
+"""
